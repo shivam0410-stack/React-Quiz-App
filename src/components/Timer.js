@@ -94,7 +94,7 @@ function Timer(props) {
           ) : (
             ""
           )}
-          {cur !== 4 ? (
+          {cur !== 9 ? (
             <>
               <Button
                 color="warning"
